@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm a tech enthusiast with a growing passion for cloud com
 
 ## 🌍 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/etipouosagie/) *(Replace with your actual profile)*
-- 📧 Email: *dobaegbuson.com* 
+- 💼 [LinkedIn](https://www.linkedin.com/in/etipouosagie/) 
+- 📧 Email: *dobaegbuson@gmail.com* 
   
 
 
